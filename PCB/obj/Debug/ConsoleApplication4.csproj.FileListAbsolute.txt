@@ -1,0 +1,9 @@
+c:\users\mir\documents\visual studio 2013\Projects\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe.config
+C:\Users\Mir\documents\visual studio 2013\Projects\ConsoleApplication4\obj\Debug\ConsoleApplication4.csprojResolveAssemblyReference.cache
+C:\Users\Mir\documents\visual studio 2013\Projects\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe
+C:\Users\Mir\documents\visual studio 2013\Projects\ConsoleApplication4\bin\Debug\ConsoleApplication4.pdb
+C:\Users\Mir\documents\visual studio 2013\Projects\ConsoleApplication4\obj\Debug\ConsoleApplication4.exe
+C:\Users\Mir\documents\visual studio 2013\Projects\ConsoleApplication4\obj\Debug\ConsoleApplication4.pdb
+C:\Users\Mir\Documents\GitHub\Mir\PCB\bin\Debug\ConsoleApplication4.exe.config
+C:\Users\Mir\Documents\GitHub\Mir\PCB\obj\Debug\ConsoleApplication4.exe
+C:\Users\Mir\Documents\GitHub\Mir\PCB\obj\Debug\ConsoleApplication4.pdb
